@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a computer vision pipeline for automated quality control in electronics manufacturing. Utilizing a fine-tuned **YOLOv8** model, the system detects various anomalies on Printed Circuit Boards in real-time, such as short circuits, missing holes, and mouse bites. 
 
-**Live Interactive Demo:** [[INSERT_HUGGING_FACE_LINK_HERE]](https://huggingface.co/spaces/Bartek7630/pcb_detection)
+**Live Interactive Demo:** [Click here to test the model](https://huggingface.co/spaces/Bartek7630/pcb_detection)
 
 ## Architecture & Deployment Strategy
 
