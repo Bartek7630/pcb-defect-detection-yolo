@@ -28,3 +28,6 @@ To optimize costs for continuous portfolio demonstration (avoiding 24/7 SageMake
 1. Clone the repository: `git clone https://github.com/Bartek7630/pcb-defect-detection.git`
 2. Install dependencies: `pip install -r huggingface_app/requirements.txt`
 3. Run the Gradio interface: `python huggingface_app/app.py`
+
+
+<img width="632" height="735" alt="Zrzut ekranu 2026-07-11 134544" src="https://github.com/user-attachments/assets/28118bee-6e7e-45e3-85b0-1d46d5726ba0" />
